@@ -1,0 +1,25 @@
+.react-logo{
+    width: 70%;
+    height: 50%;
+    
+}
+.box-border-react{
+border: 5px solid #22c1c3;
+}
+
+
+.redux-logo{
+    width: 50%;
+    height: 184px;
+}
+.box-border-redux{
+    border: 5px solid #7F00FF;
+}
+
+.php-logo{
+    width: 70%;
+    height: 113px;
+}
+.box-border-php{
+    border: 5px solid #396afc;
+}
