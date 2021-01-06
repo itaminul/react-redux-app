@@ -14,24 +14,24 @@ export const About = () => {
 
       </div>
     </section>
-    <section id="featured" class="featured">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-4">
-            <div class="">             
+    <section id="featured" className="featured">
+      <div className="container">
+        <div className="row">
+          <div className="col-lg-4">
+            <div className="">             
               <h3><a href="">Web Development</a></h3>
               <p>React.js is an open-source JavaScript library that is used for building user interfaces specifically for single-page applications.</p>
             </div>
           </div>
-          <div class="col-lg-4 mt-4 mt-lg-0">
-            <div class="">
+          <div className="col-lg-4 mt-4 mt-lg-0">
+            <div className="">
          
               <h3><a href="">Web Design</a></h3>
               <p>Redux is used mostly for application state management.</p>
             </div>
           </div>
-          <div class="col-lg-4 mt-4 mt-lg-0">
-            <div class="">
+          <div className="col-lg-4 mt-4 mt-lg-0">
+            <div className="">
           
               <h3><a href="">API</a></h3>
               <p>PHP is mainly focused on server-side scripting, so you can do anything any other CGI program can do, such as collect form data, generate dynamic page content.</p>
