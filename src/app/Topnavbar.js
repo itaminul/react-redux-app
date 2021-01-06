@@ -17,8 +17,6 @@ export const Topnavbar = () => {
                     <ul>
                       <li className="active"><Link to="/home">Home</Link></li>
                       <li><Link to="/about">About</Link></li>
-
-                      <li><Link to="/tutorial">Tutorial</Link></li>
                       <li><Link to="/blog">Blog</Link></li>
                       <li><Link to="/contact">Contact</Link></li>
 
